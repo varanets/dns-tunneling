@@ -1,0 +1,4 @@
+A, google.com., 0, 216.58.209.142
+MX, google.com., 0, b'\x00(\x04alt3\x05aspmx\x01l\xc0\x0c'
+TXT, google.com., 0, v=spf1 include:_spf.google.com ~all
+A, example.tld., 3, 

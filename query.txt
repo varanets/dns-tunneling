@@ -1,0 +1,4 @@
+A, google.com
+MX, google.com
+TXT, google.com
+A, example.tld
